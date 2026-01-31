@@ -144,7 +144,6 @@ IT23295742/
 ├── playwright.config.js               # Playwright configuration
 ├── test-cases.md                      # Test case documentation with results
 ├── package.json                       # Project dependencies
-├── .gitignore                         # Git ignore rules
 └── README.md                          # This file
 ```
 
