@@ -1,6 +1,6 @@
 # Playwright Automation –Assignment 1 - IT23295742 
 
-Automated test suite for [Swi ftTranslator](https://www.swifttranslator.com/) - a Singlish to Sinhala translation web application.
+Automated test suite for [SwiftTranslator](https://www.swifttranslator.com/) - a Singlish to Sinhala translation web application.
 
 ##  Project Overview
 
