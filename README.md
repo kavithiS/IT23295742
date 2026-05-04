@@ -139,13 +139,3 @@ Please follow existing code style and add tests for new features.
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-## Contact
-Maintainer: Your Name — email@example.com  
-Repository: https://github.com/<owner>/<repo>
-
----
-
-If you want, I can:
-- Replace placeholders with values from your repo (package.json, pyproject.toml, or a short description).
-- Commit this README to your repository — provide the repository in owner/repo format and tell me whether to add it directly to the default branch or create a new branch (suggested: chore/add-readme).
-```
